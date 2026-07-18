@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0",
+  "updateMessage": "此次更新包含性能改进和错误修复。\n- 优化节点连接速度\n- 修复部分设备闪退",
+  "downloadUrl": "https://xz.cloudkeyacceleration.com/s/2186kx",
+  "announcementEnabled": true,
+  "announcementMessage": "通知：由于线路维护，请大家务必更新到最新版本以保证流畅连接！",
+  "announcementId": "notice_2026_07_18",
+  "customerServiceQQ": "123456789",
+  "buyCardUrl": "https://your-shop-link.com"
+}
