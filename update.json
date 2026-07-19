@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "updateMessage": "此次更新包含性能改进和错误修复。\n- 优化节点连接速度\n- 修复部分设备闪退",
   "downloadUrl": "https://xz.cloudkeyacceleration.com/s/2186kx",
   "announcementEnabled": true,
